@@ -1,0 +1,15 @@
+﻿{
+  "Id": "uAVcjS0CUEmBvpTR6tlojQ",
+  "Reference": "fl9DweCEoUytp8cNfmezHQ/uAVcjS0CUEmBvpTR6tlojQ",
+  "ParentRef": "fl9DweCEoUytp8cNfmezHQ/prcfDoGX_0ywPPpP_vXwkw",
+  "Name": "RPA Challenge",
+  "Type": "Screen",
+  "Created": "2023-07-18T09:17:01.9819488Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-18T09:17:08.2237207Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

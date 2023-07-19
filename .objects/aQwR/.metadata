@@ -1,0 +1,11 @@
+﻿{
+  "Id": "aQwRemihHEOSO26dJPs6zA",
+  "Reference": "fl9DweCEoUytp8cNfmezHQ/aQwRemihHEOSO26dJPs6zA",
+  "Name": "Chrome",
+  "Type": "App",
+  "Created": "2023-07-18T09:16:14.6136465Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-18T09:16:14.6136465Z"
+}
